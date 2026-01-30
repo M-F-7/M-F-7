@@ -120,11 +120,7 @@ Je développe et expérimente autour de sujets comme :
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MFsept&color=blue" alt="profile views" />
-</p>
-
-> _"Code is not just instructions — it’s a way to think."_
+> _"Automation is the art of trusting your own thinking."_
 
 ---
 
@@ -246,10 +242,10 @@ I develop and experiment around topics such as:
 
 ---
 
+> _"Automation is the art of trusting your own thinking."_
+
+---
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=MFsept&color=blue" alt="profile views" />
 </p>
-
-> _"Code is not just instructions — it’s a way to think."_
-
----
