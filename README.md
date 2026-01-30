@@ -27,9 +27,36 @@ Je développe et expérimente autour de sujets comme :
 ## ⚙️ Technologies utilisées
 
 <p align="center">
+  <div style="text-align:center; font-weight:bold; font-size:28px;">
+  Languages
+  </div>
+</p>
+<p align="center">
   <img alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
   <img alt="C++" src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img alt="Python" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=3776AB" />
+</p>
+
+
+<p align="center">
+  <div style="text-align:center; font-weight:bold; font-size:28px;">
+  Conteneurisation & Orchestration
+  </div>
+</p>
+<p align="center">
+  <img alt="Docker"  height="60" width="80" src="https://logos-world.net/wp-content/uploads/2021/02/Docker-Emblem.png" />
+  <img alt="K8s"  height="60" width="80" src="https://vadosware.io/images/k8s-logo.png" />
+</p>
+
+<p align="center">
+  <div style="text-align:center; font-weight:bold; font-size:28px;">
+  CI/CD
+  </div>
+</p>
+<p align="center">
+  <img alt="Jenkins" height="60" width="100" src="https://logos-world.net/wp-content/uploads/2023/12/Jenkins-Symbol-500x281.png" />
+  <img alt="ArgoCD" height="60" width="80" src="https://metakube.com/content/images/2023/02/argo-icon-color.png" />
+  <img alt="Gitlab" height="60" width="80" src="https://brandslogos.com/wp-content/uploads/images/large/gitlab-logo.png" />
 </p>
 
 ---
@@ -46,9 +73,6 @@ Je développe et expérimente autour de sujets comme :
   <img alt="Azure" width="80" src="https://logos-world.net/wp-content/uploads/2021/03/Azure-Logo-2020-present.png" />
   <img alt="Google" width="80" src="https://logos-world.net/wp-content/uploads/2021/02/Google-Cloud-Emblem.png" />
 </p>
-
-
----
 
 
 <p align="center">
@@ -72,7 +96,6 @@ Je développe et expérimente autour de sujets comme :
 </p>
 <p align="center">
   <img width="80" alt="gologo png" src="https://github.com/user-attachments/assets/1b584288-8053-4fb4-b95f-83af704b168f" />
-  <!-- <img alt="Go" width="80" src="https://img.favpng.com/13/25/17/go-programming-language-computer-programming-programmer-png-favpng-uLmsLmGprhYfdp9BNgqQ4PKrG.jpg" /> -->
 </p>
 
 ---
