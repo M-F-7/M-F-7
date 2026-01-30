@@ -29,7 +29,7 @@ Je développe et expérimente autour de sujets comme :
 ## ⚙️ Technologies utilisées
 
 <div align="center" style="font-weight:bold; font-size:28px;">
-  Languages
+  <strong>Languages</strong>
 </div>
 
 <p align="center">
