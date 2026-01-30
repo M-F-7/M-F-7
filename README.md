@@ -37,7 +37,7 @@ Je développe et expérimente autour de sujets comme :
 ## En cours d'apprentissage
 
 <p align="center">
-  <div style="text-align:center; font-weight:bold; font-size:28px;">
+  <div style="text-align:center; font-weight:bold; font-size:54px;">
   Cloud
   </div>
   <p align="center">
