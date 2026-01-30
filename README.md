@@ -6,8 +6,6 @@
 <h2>English version below 👇</h2>
 
 
----
-
 ## 🧠 À propos de moi
 
 - 👨‍💻 Actuellement en formation à **42 Paris**
