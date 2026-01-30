@@ -31,7 +31,7 @@ Je développe et expérimente autour de sujets comme :
 ## 🧰 Technologies utilisées
 
 <div align="center" style="font-weight:bold; font-size:28px;">
-  <strong>Languages</strong>
+  <strong>Langages</strong>
 </div>
 
 <p align="center">
@@ -100,7 +100,7 @@ Je développe et expérimente autour de sujets comme :
 ## 
 
 <div align="center" style="font-weight:bold; font-size:28px;">
-  <strong>Languages</strong>
+  <strong>Langages</strong>
 </div>
 
 <p align="center">
