@@ -74,6 +74,7 @@ Je développe et expérimente autour de sujets comme :
 </div>
 
 <p align="center">
+  <br>
   <img alt="AWS" width="80" src="https://images.velog.io/images/nari120/post/b14b4105-a561-4cc3-bc9f-87a5ee4eb1b6/aws.png" />
   <img alt="Azure" width="80" src="https://logos-world.net/wp-content/uploads/2021/03/Azure-Logo-2020-present.png" />
   <img alt="Google" width="80" src="https://logos-world.net/wp-content/uploads/2021/02/Google-Cloud-Emblem.png" />
@@ -87,6 +88,7 @@ Je développe et expérimente autour de sujets comme :
 </div>
 
 <p align="center">
+  <br>
   <img alt="Ansible" width="80" src="https://creazilla-store.fra1.digitaloceanspaces.com/icons/3256406/file-type-ansible-icon-sm.png" />
   <img alt="Terraform" width="80" src="https://res.cloudinary.com/recruitee/image/upload/q_auto,f_auto,w_1920,c_limit/production/images/nwg/zvH25-_6NyKe.png" />
 </p>
@@ -100,6 +102,7 @@ Je développe et expérimente autour de sujets comme :
 </div>
 
 <p align="center">
+  <br>
   <img width="80" alt="gologo png" src="https://github.com/user-attachments/assets/1b584288-8053-4fb4-b95f-83af704b168f" />
 </p>
 
