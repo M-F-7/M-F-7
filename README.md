@@ -68,7 +68,7 @@ Je développe et expérimente autour de sujets comme :
   Languages
   </div>
   <p align="center">
-  <img width="606" height="411" alt="gologo png" src="https://github.com/user-attachments/assets/1b584288-8053-4fb4-b95f-83af704b168f" />
+  <img width="80" alt="gologo png" src="https://github.com/user-attachments/assets/1b584288-8053-4fb4-b95f-83af704b168f" />
   <!-- <img alt="Go" width="80" src="https://img.favpng.com/13/25/17/go-programming-language-computer-programming-programmer-png-favpng-uLmsLmGprhYfdp9BNgqQ4PKrG.jpg" /> -->
 </p>
 
