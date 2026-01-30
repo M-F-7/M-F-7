@@ -2,23 +2,13 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=1e40af&height=150&section=header&text=Bienvenue%20sur%20mon%20GitHub%20!&fontColor=ffffff&fontSize=40&fontAlignY=40" />
 </p>
 
-🎓 Étudiant à 42 Paris,
-
 ---
 
 ## 🧠 À propos de moi
 
-- 👨‍💻 Actuellement en formation à **42**
-- 💡 Intéressé par l’**IA** et le **game dev**
+- 👨‍💻 Actuellement en formation à **42 Paris**
 - 🔧 Toujours curieux de découvrir de nouveaux langages et renforcer mes skills personnels
 - 🎮 J’aime expérimenter avec du code, apprendre de nouveaux concepts et construire des projets qui m’amusent
-
----
-
-## 📌 Projet perso en cours
-
-🎯 <span style="color:#ff4c60; font-weight:bold; font-family: monospace;">DemonAim</span> – *Un osu! lite développé en C++*  
-Objectif : créer un jeu de rythme léger et performant, mêlant gameplay fluide et IA simple pour la reconnaissance des patterns.
 
 ---
 
@@ -27,11 +17,10 @@ Objectif : créer un jeu de rythme léger et performant, mêlant gameplay fluide
 Je développe et expérimente autour de sujets comme :
 
 - 🔧 la programmation bas niveau
-- 🤖 des algorithmes simples d’intelligence artificielle (à venir)
-- 🕹️ des prototypes de logique de jeux
-- 📚 des projets réalisés dans le cadre de 42
-
-➡️ Mes projets sont pour l'instant privés et seront disponibles prochainement...
+- 📦 La Conteneurisation
+- ☁️​ Le Cloud
+- 🔁 La CI/CD
+- ⚙️ L' automatisation
 
 ---
 
@@ -45,18 +34,23 @@ Je développe et expérimente autour de sujets comme :
 
 ---
 
-## 🛠️ Outils utilisés
+## En cours d' apprentissage
 
 <p align="center">
-  <img alt="Unreal Engine" src="https://img.shields.io/badge/Unreal%20Engine-0E1128?style=for-the-badge&logo=unreal-engine&logoColor=white" />
-  <img alt="Unity" src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" />
+  <img alt="AWS" src="https://images.velog.io/images/nari120/post/b14b4105-a561-4cc3-bc9f-87a5ee4eb1b6/aws.png" />
+  <img alt="Azure" src="https://tse2.mm.bing.net/th/id/OIP.EpkgotTXzmhX-_5YVu4ysQHaE8?rs=1&pid=ImgDetMain&o=7&rm=3" />
+  <img alt="Google" src="https://logos-world.net/wp-content/uploads/2021/02/Google-Cloud-Emblem.png" />
+  <img alt="Ansible" src="https://creazilla-store.fra1.digitaloceanspaces.com/icons/3269501/ansible-icon-md.png" />
+  <img alt="Terraform" src="https://tse3.mm.bing.net/th/id/OIP.aC8E37Y4HtSbuEC-uJr58QHaIZ?rs=1&pid=ImgDetMain&o=7&rm=3" />
+  <img alt="Go" src="https://tse1.mm.bing.net/th/id/OIP.Kk5RnkS_FvIpkXUSiYENwAHaFJ?rs=1&pid=ImgDetMain&o=7&rm=3" />
 </p>
 
 ---
 
 ## 📫 Me contacter
-
-📎 **Discord : `m_f_7`**  
+  
+**Discord : `m_f_7`**  
+**Linkedin : `www.linkedin.com/in/matteo-fernandes-283720380`**  
 *(N’hésite pas à m’envoyer un message)*
 
 ---
