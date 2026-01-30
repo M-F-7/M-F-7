@@ -40,6 +40,8 @@ Je développe et expérimente autour de sujets comme :
 </p>
 
 
+## 
+
 <p align="center">
   <div style="text-align:center; font-weight:bold; font-size:28px;">
   Conteneurisation & Orchestration
@@ -49,6 +51,8 @@ Je développe et expérimente autour de sujets comme :
   <img alt="Docker"  height="60" width="80" src="https://logos-world.net/wp-content/uploads/2021/02/Docker-Emblem.png" />
   <img alt="K8s"  height="60" width="80" src="https://vadosware.io/images/k8s-logo.png" />
 </p>
+
+## 
 
 <p align="center">
   <div style="text-align:center; font-weight:bold; font-size:28px;">
@@ -77,6 +81,8 @@ Je développe et expérimente autour de sujets comme :
 </p>
 
 
+## 
+
 <p align="center">
   <div style="text-align:center; font-weight:bold; font-size:28px;">
   Infrastructure Automation
@@ -88,7 +94,8 @@ Je développe et expérimente autour de sujets comme :
 </p>
 
 
----
+
+## 
 
 
 <p align="center">
