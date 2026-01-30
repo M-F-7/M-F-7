@@ -30,7 +30,6 @@ Je développe et expérimente autour de sujets comme :
 
 <div align="center" style="font-weight:bold; font-size:28px;">
   <strong>Languages</strong>
-  <br>
 </div>
 
 <p align="center">
@@ -44,10 +43,11 @@ Je développe et expérimente autour de sujets comme :
 ## 
 
 <div align="center" style="font-weight:bold; font-size:28px;">
-  Conteneurisation & Orchestration
+  <strong>Conteneurisation & Orchestration</strong>
 </div>
 
 <p align="center">
+  <br>
   <img alt="Docker"  height="60" width="80" src="https://logos-world.net/wp-content/uploads/2021/02/Docker-Emblem.png" />
   <img alt="K8s"  height="60" width="80" src="https://vadosware.io/images/k8s-logo.png" />
 </p>
@@ -55,10 +55,11 @@ Je développe et expérimente autour de sujets comme :
 ## 
 
 <div align="center" style="font-weight:bold; font-size:28px;">
-  CI/CD
+  <strong>CI/CD</strong>
 </div>
 
 <p align="center">
+  <br>
   <img alt="Jenkins" height="60" width="100" src="https://logos-world.net/wp-content/uploads/2023/12/Jenkins-Symbol-500x281.png" />
   <img alt="ArgoCD" height="60" width="80" src="https://metakube.com/content/images/2023/02/argo-icon-color.png" />
   <img alt="Gitlab" height="60" width="80" src="https://brandslogos.com/wp-content/uploads/images/large/gitlab-logo.png" />
@@ -69,7 +70,7 @@ Je développe et expérimente autour de sujets comme :
 ## En cours d'apprentissage
 
 <div align="center" style="font-weight:bold; font-size:28px;">
-  Cloud
+  <strong>Cloud</strong>
 </div>
 
 <p align="center">
@@ -82,7 +83,7 @@ Je développe et expérimente autour de sujets comme :
 ## 
 
 <div align="center" style="font-weight:bold; font-size:28px;">
-  Infrastructure Automation
+  <strong>Infrastructure Automation</strong>
 </div>
 
 <p align="center">
@@ -95,7 +96,7 @@ Je développe et expérimente autour de sujets comme :
 ## 
 
 <div align="center" style="font-weight:bold; font-size:28px;">
-  Languages
+  <strong>Languages</strong>
 </div>
 
 <p align="center">
