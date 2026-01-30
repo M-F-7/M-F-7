@@ -7,12 +7,13 @@
 ## 🧠 À propos de moi
 
 - 👨‍💻 Actuellement en formation à **42 Paris**
+- 👨‍💻 Stagiaire en Mlops chez **Liora (ancien DataScienTest)**
 - 🔧 Toujours curieux de découvrir de nouveaux langages et renforcer mes skills personnels
 - 🎮 J’aime expérimenter avec du code, apprendre de nouveaux concepts et construire des projets qui m’amusent
 
 ---
 
-## 🧩 Mes projets
+## 🧩 Mes Centres d' intérêts
 
 Je développe et expérimente autour de sujets comme :
 
