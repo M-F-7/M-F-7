@@ -34,16 +34,17 @@ Je développe et expérimente autour de sujets comme :
 
 ---
 
-## En cours d' apprentissage
+## En cours d'apprentissage
 
 <p align="center">
-  <img alt="AWS" src="https://images.velog.io/images/nari120/post/b14b4105-a561-4cc3-bc9f-87a5ee4eb1b6/aws.png" />
-  <img alt="Azure" src="https://tse2.mm.bing.net/th/id/OIP.EpkgotTXzmhX-_5YVu4ysQHaE8?rs=1&pid=ImgDetMain&o=7&rm=3" />
-  <img alt="Google" src="https://logos-world.net/wp-content/uploads/2021/02/Google-Cloud-Emblem.png" />
-  <img alt="Ansible" src="https://creazilla-store.fra1.digitaloceanspaces.com/icons/3269501/ansible-icon-md.png" />
-  <img alt="Terraform" src="https://tse3.mm.bing.net/th/id/OIP.aC8E37Y4HtSbuEC-uJr58QHaIZ?rs=1&pid=ImgDetMain&o=7&rm=3" />
-  <img alt="Go" src="https://tse1.mm.bing.net/th/id/OIP.Kk5RnkS_FvIpkXUSiYENwAHaFJ?rs=1&pid=ImgDetMain&o=7&rm=3" />
+  <img alt="AWS" width="80" src="https://images.velog.io/images/nari120/post/b14b4105-a561-4cc3-bc9f-87a5ee4eb1b6/aws.png" />
+  <img alt="Azure" width="80" src="https://tse2.mm.bing.net/th/id/OIP.EpkgotTXzmhX-_5YVu4ysQHaE8?rs=1&pid=ImgDetMain&o=7&rm=3" />
+  <img alt="Google" width="80" src="https://logos-world.net/wp-content/uploads/2021/02/Google-Cloud-Emblem.png" />
+  <img alt="Ansible" width="80" src="https://creazilla-store.fra1.digitaloceanspaces.com/icons/3269501/ansible-icon-md.png" />
+  <img alt="Terraform" width="80" src="https://tse3.mm.bing.net/th/id/OIP.aC8E37Y4HtSbuEC-uJr58QHaIZ?rs=1&pid=ImgDetMain&o=7&rm=3" />
+  <img alt="Go" width="80" src="https://tse1.mm.bing.net/th/id/OIP.Kk5RnkS_FvIpkXUSiYENwAHaFJ?rs=1&pid=ImgDetMain&o=7&rm=3" />
 </p>
+
 
 ---
 
