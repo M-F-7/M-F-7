@@ -37,14 +37,40 @@ Je développe et expérimente autour de sujets comme :
 ## En cours d'apprentissage
 
 <p align="center">
+  <div style="text-align:center; font-weight:bold; font-size:28px;">
+  Cloud
+  </div>
+  <p align="center">
   <img alt="AWS" width="80" src="https://images.velog.io/images/nari120/post/b14b4105-a561-4cc3-bc9f-87a5ee4eb1b6/aws.png" />
-  <img alt="Azure" width="80" src="https://th.bing.com/th/id/R.ba14e221290b4fbf693d913419f2d1df?rik=DihP3ssAt1EmZg&pid=ImgRaw&r=0" />
+  <img alt="Azure" width="80" src="https://logos-world.net/wp-content/uploads/2021/03/Azure-Logo-2020-present.png" />
   <img alt="Google" width="80" src="https://logos-world.net/wp-content/uploads/2021/02/Google-Cloud-Emblem.png" />
-  <img alt="Ansible" width="80" src="https://tse3.mm.bing.net/th/id/OIP.ys_qZGtw02-fMb2MIXoYQAHaFw?rs=1&pid=ImgDetMain&o=7&rm=3" />
-  <img alt="Terraform" width="80" src="https://res.cloudinary.com/recruitee/image/upload/q_auto,f_auto,w_1920,c_limit/production/images/nwg/zvH25-_6NyKe.png" />
-  <img alt="Go" width="80" src="https://tse1.mm.bing.net/th/id/OIP.2wOXL3lmNPN4BBUusA5FjwHaF_?rs=1&pid=ImgDetMain&o=7&rm=3" />
 </p>
 
+
+---
+
+
+<p align="center">
+  <div style="text-align:center; font-weight:bold; font-size:28px;">
+  Infrastructure Automation
+  </div>
+  <p align="center">
+  <img alt="Ansible" width="80" src="https://creazilla-store.fra1.digitaloceanspaces.com/icons/3256406/file-type-ansible-icon-sm.png" />
+  <img alt="Terraform" width="80" src="https://res.cloudinary.com/recruitee/image/upload/q_auto,f_auto,w_1920,c_limit/production/images/nwg/zvH25-_6NyKe.png" />
+</p>
+
+
+---
+
+
+<p align="center">
+  <div style="text-align:center; font-weight:bold; font-size:28px;">
+  Languages
+  </div>
+  <p align="center">
+  <img width="606" height="411" alt="gologo png" src="https://github.com/user-attachments/assets/1b584288-8053-4fb4-b95f-83af704b168f" />
+  <!-- <img alt="Go" width="80" src="https://img.favpng.com/13/25/17/go-programming-language-computer-programming-programmer-png-favpng-uLmsLmGprhYfdp9BNgqQ4PKrG.jpg" /> -->
+</p>
 
 ---
 
