@@ -17,6 +17,7 @@
 Je développe et expérimente autour de sujets comme :
 
 - 🔧 la programmation bas niveau
+- 🤖 le machine learning & le monde de l' IA
 - 📦 La Conteneurisation
 - ☁️​ Le Cloud
 - 🔁 La CI/CD
