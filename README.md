@@ -9,7 +9,7 @@
 ## 🧠 À propos de moi
 
 - 👨‍💻 Actuellement en formation à **42 Paris**
-- 👨‍🎓 Stagiaire en Mlops chez **Liora (ancien DataScienTest)**
+- 👨‍🎓 Stagiaire en Mlops/LLMOps chez **Liora (ancien DataScienTest)**
 - 🕵️‍♂️ Toujours curieux de découvrir de nouveaux langages et renforcer mes skills personnels
 - 🎮 J’aime expérimenter avec du code, apprendre de nouveaux concepts et construire des projets qui m’amusent
 
@@ -135,7 +135,7 @@ Je développe et expérimente autour de sujets comme :
 ## 🧠 About Me
 
 - 👨‍💻 Currently studying at **42 Paris**
-- 👨‍🎓 MLOps intern at **Liora (formerly DataScienTest)**
+- 👨‍🎓 MLOps/LLMOps intern at **Liora (formerly DataScienTest)**
 - 🕵️‍♂️ Always curious to explore new languages and strengthen my personal skills
 - 🎮 I love experimenting with code, learning new concepts, and building projects that excite me
 
